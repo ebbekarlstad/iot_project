@@ -105,4 +105,5 @@ Temperature feed:
 
 The final design of the project can be seen in the picture below! This was a very exciting course fore me, I learnt so many new cool things about IoT, circuits, data transmitting and more. Before this course, I had very limited knowledge about IoT, and I can now say that I feel like I've at least scraped the tip of the iceberg. :blush:
 Overall, I think the project went good, I picked an easier project just because I wanted to fully learn everything I was doing and not just get overwhelmed with information, which worked out great in the end. Of course, a project is never perfect and done, but for a first IoT project, I'm rather happy!
+
 ![Final Project](https://raw.githubusercontent.com/ebbekarlstad/iot_project/main/final.jpg)
