@@ -34,6 +34,7 @@ I chose to use Thonny IDE for this project. My initial plan was to use VS Code w
 ## Putting everything together
 
 This is a pretty simple circuit diagram that shows how everything is connected. Blue cable sends data from the sensor, red cable gives it power and brown cable is ground.
+
 ![Circuit diagram](https://raw.githubusercontent.com/ebbekarlstad/iot_project/main/temp_hum_sketch.jpg)
 Simply power everything as shown in the image, and you're done with the physical part!
 ## Platform
@@ -95,10 +96,12 @@ This means that every ten seconds, there will be an update in the Adafruit feed.
 
 The data presentation is simply what Adafruit gave me, meaning no additional stylistic tweaking has been done. It is currently presented using two line graphs, one for temperature and one for humidity (see images below). The data is stored for 30 days due to Adafruit's own policies.
 
-Humidity feed:
+*Humidity feed*:
+
 ![Humidity](https://raw.githubusercontent.com/ebbekarlstad/iot_project/main/humidity_screen.png)
 
-Temperature feed:
+*Temperature feed*:
+
 ![Temperature](https://raw.githubusercontent.com/ebbekarlstad/iot_project/main/temperature_screen.png)
 
 ## Finalizing the design
